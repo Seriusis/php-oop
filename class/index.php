@@ -49,7 +49,7 @@ abstract class ShopProduct{
     }
     public function test1()
     {
-        // TODO: Implement test1() method.
+
 
     }
 
