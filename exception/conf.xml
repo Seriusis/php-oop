@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<conf>
+            <item name="user">john</item>
+            <item name="pass">qwerty</item>
+            <item name="host">localhost</item>
+        <item name="ssl">0</item>
+</conf>
