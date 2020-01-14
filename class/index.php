@@ -73,7 +73,6 @@ class Phone extends ShopProduct implements ProductPhone {
 
     public function getArrtibutes()
     {
-        // TODO: Implement getArrtibutes() method.
     }
 
 
