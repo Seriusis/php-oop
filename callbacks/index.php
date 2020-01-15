@@ -77,6 +77,9 @@ $processor->registerCallback(PriceCounter::calculateAmount());
 
 //user fuctions will be execute as callbacks
 $processor->sale(new Product('PS4', 7800));
+print_r('</br>');
+$processor->sale(new Product('MacBook Pro', 10000));
+
 
 print_r('</br>');
 
